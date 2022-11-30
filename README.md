@@ -7,5 +7,5 @@
 - ***[Tartarus2014](https://raw.githubusercontent.com/Tartarus2014/QuantumultX-Script/main/QuanX.conf)***
 - ***[blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)***
 
-#### 适合自己的才是最好的
+#### 适合自己才是最好的
 
